@@ -22,7 +22,7 @@ body {
     background-image: linear-gradient(to right, rgb(255, 62, 94), rgb(239, 3, 113));
     padding: 1vw;
     width: 580px;
-    height: 640px;
+    /* height: 640px; */
     border-radius: .5vw;
     padding-bottom: 1vw;
 }
